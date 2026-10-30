@@ -1,0 +1,965 @@
+{
+  "sites": [
+      {
+      "key": "[影]枫叶4K[优]",
+      "name": "[影]枫叶4K[优]|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/枫叶4K.py"
+    },
+    {
+      "key": "[影]1234影视[优]",
+      "name": "[影]1234影视[优]|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]1234影视[优].py"
+    },
+    {
+      "key": "[影]234个网站",
+      "name": "[影]234个网站|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]234个网站.py"
+    },
+    {
+      "key": "[影]323影视",
+      "name": "[影]323影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]323影视.py"
+    },
+    {
+      "key": "[影]37电影网",
+      "name": "[影]37电影网|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]37电影网.py"
+    },
+    {
+      "key": "[影]4K电影网",
+      "name": "[影]4K电影网|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]4K电影网.py"
+    },
+    {
+      "key": "[影]555影视",
+      "name": "[影]555影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]555影视.py"
+    },
+    {
+      "key": "[影]55影院",
+      "name": "[影]55影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]55影院.py"
+    },
+    {
+      "key": "[影]6080影视",
+      "name": "[影]6080影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]6080影视.py"
+    },
+    {
+      "key": "[影]6080新视觉",
+      "name": "[影]6080新视觉|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]6080新视觉.py"
+    },
+    {
+      "key": "[影]77电影",
+      "name": "[影]77电影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]77电影.py"
+    },
+    {
+      "key": "[影]B站视频",
+      "name": "[影]B站视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]B站视频.py"
+    },
+    {
+      "key": "[影]CCTV栏目",
+      "name": "[影]CCTV栏目|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]CCTV栏目.py"
+    },
+    {
+      "key": "[影]clicli动漫",
+      "name": "[影]clicli动漫|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]clicli动漫.py"
+    },
+    {
+      "key": "[影]CNFLIX",
+      "name": "[影]CNFLIX|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]CNFLIX.py"
+    },
+    {
+      "key": "[影]FoFo影院",
+      "name": "[影]FoFo影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]FoFo影院.py"
+    },
+    {
+      "key": "[影]fulleroticmovies四级影视",
+      "name": "[影]fulleroticmovies四级影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]fulleroticmovies四级影视.py"
+    },
+    {
+      "key": "[影]ik4k影院",
+      "name": "[影]ik4k影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]ik4k影院.py"
+    },
+    {
+      "key": "[影]pomo",
+      "name": "[影]pomo|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]pomo.py"
+    },
+    {
+      "key": "[影]pomo影视",
+      "name": "[影]pomo影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]pomo影视.py"
+    },
+    {
+      "key": "[影]VIP电影",
+      "name": "[影]VIP电影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]VIP电影.py"
+    },
+    {
+      "key": "[影]xb6v磁力电影",
+      "name": "[影]xb6v磁力电影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]xb6v磁力电影.py"
+    },
+    {
+      "key": "[影]YYJC影视",
+      "name": "[影]YYJC影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]YYJC影视.py"
+    },
+    {
+      "key": "[影]云朵视频",
+      "name": "[影]云朵视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]云朵视频.py"
+    },
+    {
+      "key": "[影]五大平台",
+      "name": "[影]五大平台|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]五大平台.py"
+    },
+    {
+      "key": "[影]仙腾影院",
+      "name": "[影]仙腾影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]仙腾影院.py"
+    },
+    {
+      "key": "[影]优酷(1)",
+      "name": "[影]优酷(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]优酷(1).py"
+    },
+    {
+      "key": "[影]优酷",
+      "name": "[影]优酷|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]优酷.py"
+    },
+    {
+      "key": "[影]兔岛影院",
+      "name": "[影]兔岛影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]兔岛影院.py"
+    },
+    {
+      "key": "[影]八度影院",
+      "name": "[影]八度影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]八度影院.py"
+    },
+    {
+      "key": "[影]八戒影视(1)",
+      "name": "[影]八戒影视(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]八戒影视(1).py"
+    },
+    {
+      "key": "[影]六六大片网",
+      "name": "[影]六六大片网|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]六六大片网.py"
+    },
+    {
+      "key": "[影]农民影视(1)",
+      "name": "[影]农民影视(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]农民影视(1).py"
+    },
+    {
+      "key": "[影]凡客影视",
+      "name": "[影]凡客影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]凡客影视.py"
+    },
+    {
+      "key": "[影]剧圈影视",
+      "name": "[影]剧圈影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]剧圈影视.py"
+    },
+    {
+      "key": "[影]剧迷影视",
+      "name": "[影]剧迷影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]剧迷影视.py"
+    },
+    {
+      "key": "[影]加菲猫影视",
+      "name": "[影]加菲猫影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]加菲猫影视.py"
+    },
+    {
+      "key": "[影]动漫巴士",
+      "name": "[影]动漫巴士|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]动漫巴士.py"
+    },
+    {
+      "key": "[影]北斗影视",
+      "name": "[影]北斗影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]北斗影视.py"
+    },
+    {
+      "key": "[影]午夜影视",
+      "name": "[影]午夜影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]午夜影视.py"
+    },
+    {
+      "key": "[影]华数",
+      "name": "[影]华数|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]华数.py"
+    },
+    {
+      "key": "[影]华数TV",
+      "name": "[影]华数TV|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]华数TV.py"
+    },
+    {
+      "key": "[影]华谊影视",
+      "name": "[影]华谊影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]华谊影视.py"
+    },
+    {
+      "key": "[影]厂长资源",
+      "name": "[影]厂长资源|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]厂长资源.py"
+    },
+    {
+      "key": "[影]可可影视",
+      "name": "[影]可可影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]可可影视.py"
+    },
+    {
+      "key": "[影]咕噜4K",
+      "name": "[影]咕噜4K|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]咕噜4K.py"
+    },
+    {
+      "key": "[影]咕噜影视(1)",
+      "name": "[影]咕噜影视(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]咕噜影视(1).py"
+    },
+    {
+      "key": "[影]咕噜影视",
+      "name": "[影]咕噜影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]咕噜影视.py"
+    },
+    {
+      "key": "[影]咪咕视频",
+      "name": "[影]咪咕视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]咪咕视频.py"
+    },
+    {
+      "key": "[影]咸鱼影视",
+      "name": "[影]咸鱼影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]咸鱼影视.py"
+    },
+    {
+      "key": "[影]哈密瓜动漫",
+      "name": "[影]哈密瓜动漫|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]哈密瓜动漫.py"
+    },
+    {
+      "key": "[影]哔哩哔哩",
+      "name": "[影]哔哩哔哩|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]哔哩哔哩.py"
+    },
+    {
+      "key": "[影]哔哩聚合",
+      "name": "[影]哔哩聚合|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]哔哩聚合.py"
+    },
+    {
+      "key": "[影]哔哩视频",
+      "name": "[影]哔哩视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]哔哩视频.py"
+    },
+    {
+      "key": "[影]四大天王",
+      "name": "[影]四大天王|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]四大天王.py"
+    },
+    {
+      "key": "[影]四虎影视",
+      "name": "[影]四虎影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]四虎影视.py"
+    },
+    {
+      "key": "[影]大米星球",
+      "name": "[影]大米星球|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]大米星球.py"
+    },
+    {
+      "key": "[影]大马猴影视",
+      "name": "[影]大马猴影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]大马猴影视.py"
+    },
+    {
+      "key": "[影]小猪影视",
+      "name": "[影]小猪影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]小猪影视.py"
+    },
+    {
+      "key": "[影]小皮影院",
+      "name": "[影]小皮影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]小皮影院.py"
+    },
+    {
+      "key": "[影]山水影视",
+      "name": "[影]山水影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]山水影视.py"
+    },
+    {
+      "key": "[影]开心影院",
+      "name": "[影]开心影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]开心影院.py"
+    },
+    {
+      "key": "[影]开端影视",
+      "name": "[影]开端影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]开端影视.py"
+    },
+    {
+      "key": "[影]强国影院",
+      "name": "[影]强国影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]强国影院.py"
+    },
+    {
+      "key": "[影]影探4K",
+      "name": "[影]影探4K|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]影探4K.py"
+    },
+    {
+      "key": "[影]影视大集合",
+      "name": "[影]影视大集合|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]影视大集合.py"
+    },
+    {
+      "key": "[影]影视天下",
+      "name": "[影]影视天下|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]影视天下.py"
+    },
+    {
+      "key": "[影]影视秒播",
+      "name": "[影]影视秒播|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]影视秒播.py"
+    },
+    {
+      "key": "[影]抖音(1)",
+      "name": "[影]抖音(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]抖音(1).py"
+    },
+    {
+      "key": "[影]抖音",
+      "name": "[影]抖音|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]抖音.py"
+    },
+    {
+      "key": "[影]搜剧AI",
+      "name": "[影]搜剧AI|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]搜剧AI.py"
+    },
+    {
+      "key": "[影]新4K影视",
+      "name": "[影]新4K影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]新4K影视.py"
+    },
+    {
+      "key": "[影]新咕噜影视",
+      "name": "[影]新咕噜影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]新咕噜影视.py"
+    },
+    {
+      "key": "[影]新枫叶影视",
+      "name": "[影]新枫叶影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]新枫叶影视.py"
+    },
+    {
+      "key": "[影]无水印资源",
+      "name": "[影]无水印资源|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]无水印资源.py"
+    },
+    {
+      "key": "[影]旺旺影视",
+      "name": "[影]旺旺影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]旺旺影视.py"
+    },
+    {
+      "key": "[影]未来影院",
+      "name": "[影]未来影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]未来影院.py"
+    },
+    {
+      "key": "[影]来看电影",
+      "name": "[影]来看电影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]来看电影.py"
+    },
+    {
+      "key": "[影]枝枝影视",
+      "name": "[影]枝枝影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]枝枝影视.py"
+    },
+    {
+      "key": "[影]枫叶影院",
+      "name": "[影]枫叶影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]枫叶影院.py"
+    },
+    {
+      "key": "[影]橘汁视频",
+      "name": "[影]橘汁视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]橘汁视频.py"
+    },
+    {
+      "key": "[影]欣欣影视",
+      "name": "[影]欣欣影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]欣欣影视.py"
+    },
+    {
+      "key": "[影]爱影视大全",
+      "name": "[影]爱影视大全|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]爱影视大全.py"
+    },
+    {
+      "key": "[影]爱看机器人",
+      "name": "[影]爱看机器人|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]爱看机器人.py"
+    },
+    {
+      "key": "[影]独播库",
+      "name": "[影]独播库|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]独播库.py"
+    },
+    {
+      "key": "[影]瓜子影视",
+      "name": "[影]瓜子影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]瓜子影视.py"
+    },
+    {
+      "key": "[影]瓜子影院",
+      "name": "[影]瓜子影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]瓜子影院.py"
+    },
+    {
+      "key": "[影]百花影院",
+      "name": "[影]百花影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]百花影院.py"
+    },
+    {
+      "key": "[影]看剧AI",
+      "name": "[影]看剧AI|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]看剧AI.py"
+    },
+    {
+      "key": "[影]第七影院",
+      "name": "[影]第七影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]第七影院.py"
+    },
+    {
+      "key": "[影]艾旦影视",
+      "name": "[影]艾旦影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]艾旦影视.py"
+    },
+    {
+      "key": "[影]虎牙斗鱼网易",
+      "name": "[影]虎牙斗鱼网易|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]虎牙斗鱼网易.py"
+    },
+    {
+      "key": "[影]蝴蝶影院",
+      "name": "[影]蝴蝶影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]蝴蝶影院.py"
+    },
+    {
+      "key": "[影]袋鼠影视",
+      "name": "[影]袋鼠影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]袋鼠影视.py"
+    },
+    {
+      "key": "[影]西瓜TV",
+      "name": "[影]西瓜TV|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]西瓜TV.py"
+    },
+    {
+      "key": "[影]采集聚合",
+      "name": "[影]采集聚合|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]采集聚合.py"
+    },
+    {
+      "key": "[影]青牛影视",
+      "name": "[影]青牛影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]青牛影视.py"
+    },
+    {
+      "key": "[影]青麦影视",
+      "name": "[影]青麦影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]青麦影视.py"
+    },
+    {
+      "key": "[影]青麦视频",
+      "name": "[影]青麦视频|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]青麦视频.py"
+    },
+    {
+      "key": "[影]飞快影视",
+      "name": "[影]飞快影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]飞快影视.py"
+    },
+    {
+      "key": "[影]骚火电影",
+      "name": "[影]骚火电影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]骚火电影.py"
+    },
+    {
+      "key": "[影]高清点播",
+      "name": "[影]高清点播|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]高清点播.py"
+    },
+    {
+      "key": "[影]鬼片之家",
+      "name": "[影]鬼片之家|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]鬼片之家.py"
+    },
+    {
+      "key": "[影]麒麟影视",
+      "name": "[影]麒麟影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]麒麟影视.py"
+    },
+    {
+      "key": "[影]麦田影院",
+      "name": "[影]麦田影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]麦田影院.py"
+    },
+    {
+      "key": "[短]七猫短剧[集]",
+      "name": "[短]七猫短剧[集]|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]七猫短剧[集].py"
+    },
+    {
+      "key": "[短]五五短剧",
+      "name": "[短]五五短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]五五短剧.py"
+    },
+    {
+      "key": "[短]五五短剧[集]",
+      "name": "[短]五五短剧[集]|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]五五短剧[集].py"
+    },
+    {
+      "key": "[短]刷鸭",
+      "name": "[短]刷鸭|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]刷鸭.py"
+    },
+    {
+      "key": "[短]印度短剧",
+      "name": "[短]印度短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]印度短剧.py"
+    },
+    {
+      "key": "[短]在线短剧",
+      "name": "[短]在线短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]在线短剧.py"
+    },
+    {
+      "key": "[短]居屋短剧",
+      "name": "[短]居屋短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]居屋短剧.py"
+    },
+    {
+      "key": "[短]热播短剧",
+      "name": "[短]热播短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]热播短剧.py"
+    },
+    {
+      "key": "[短]黄果剧场",
+      "name": "[短]黄果剧场|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]黄果剧场.py"
+    },
+    {
+      "key": "合并88",
+      "name": "合并88|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/合并88.py"
+    },
+    {
+      "key": "大海影视",
+      "name": "大海影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/大海影视.py"
+    },
+    {
+      "key": "磁力模版",
+      "name": "磁力模版|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/磁力模版.py"
+    },
+    {
+      "key": "酷客影院",
+      "name": "酷客影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/酷客影院.py"
+    },
+    {
+      "key": "魅影影视",
+      "name": "魅影影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/魅影影视.py"
+    },
+    {
+      "key": "[影]热播影视",
+      "name": "[影]热播影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]热播影视.py"
+    },
+    {
+      "key": "[影]爱奇艺",
+      "name": "[影]爱奇艺|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]爱奇艺.py"
+    },
+    {
+      "key": "[影]爱看机器人(1)",
+      "name": "[影]爱看机器人(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]爱看机器人(1).py"
+    },
+    {
+      "key": "[影]瓜子",
+      "name": "[影]瓜子|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]瓜子.py"
+    },
+    {
+      "key": "[影]电影天堂",
+      "name": "[影]电影天堂|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]电影天堂.py"
+    },
+    {
+      "key": "[影]电影猎手",
+      "name": "[影]电影猎手|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]电影猎手.py"
+    },
+    {
+      "key": "[影]白洋影院",
+      "name": "[影]白洋影院|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]白洋影院.py"
+    },
+    {
+      "key": "[影]百度影视",
+      "name": "[影]百度影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]百度影视.py"
+    },
+    {
+      "key": "[影]立播影视",
+      "name": "[影]立播影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]立播影视.py"
+    },
+    {
+      "key": "[影]美剧窝",
+      "name": "[影]美剧窝|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]美剧窝.py"
+    },
+    {
+      "key": "[影]耐看点播",
+      "name": "[影]耐看点播|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]耐看点播.py"
+    },
+    {
+      "key": "[影]腾讯",
+      "name": "[影]腾讯|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]腾讯.py"
+    },
+    {
+      "key": "[影]芒果TV",
+      "name": "[影]芒果TV|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]芒果TV.py"
+    },
+    {
+      "key": "[影]茶杯狐影视",
+      "name": "[影]茶杯狐影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]茶杯狐影视.py"
+    },
+    {
+      "key": "[影]莫小影",
+      "name": "[影]莫小影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]莫小影.py"
+    },
+    {
+      "key": "[影]路漫漫动漫",
+      "name": "[影]路漫漫动漫|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]路漫漫动漫.py"
+    },
+    {
+      "key": "[影]达达兔影视",
+      "name": "[影]达达兔影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]达达兔影视.py"
+    },
+    {
+      "key": "[影]追影",
+      "name": "[影]追影|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]追影.py"
+    },
+    {
+      "key": "[影]追影影视",
+      "name": "[影]追影影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]追影影视.py"
+    },
+    {
+      "key": "[影]采集合集优化",
+      "name": "[影]采集合集优化|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]采集合集优化.py"
+    },
+    {
+      "key": "[影]金牌APP",
+      "name": "[影]金牌APP|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]金牌APP.py"
+    },
+    {
+      "key": "[影]雪糕TV",
+      "name": "[影]雪糕TV|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]雪糕TV.py"
+    },
+    {
+      "key": "[影]非凡资源",
+      "name": "[影]非凡资源|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]非凡资源.py"
+    },
+    {
+      "key": "[影]韩剧网",
+      "name": "[影]韩剧网|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]韩剧网.py"
+    },
+    {
+      "key": "[影]飞快TV",
+      "name": "[影]飞快TV|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]飞快TV.py"
+    },
+    {
+      "key": "[影]飞牛影视",
+      "name": "[影]飞牛影视|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[影]飞牛影视.py"
+    },
+    {
+      "key": "[直播]电视直播",
+      "name": "[直播]电视直播|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[直播]电视直播.py"
+    },
+    {
+      "key": "[直播]聚合直播",
+      "name": "[直播]聚合直播|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[直播]聚合直播.py"
+    },
+    {
+      "key": "[短]168短剧",
+      "name": "[短]168短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]168短剧.py"
+    },
+    {
+      "key": "[短]七星短剧",
+      "name": "[短]七星短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]七星短剧.py"
+    },
+    {
+      "key": "[短]七猫短剧",
+      "name": "[短]七猫短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]七猫短剧.py"
+    },
+    {
+      "key": "[短]全能短剧",
+      "name": "[短]全能短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]全能短剧.py"
+    },
+    {
+      "key": "[短]在线短剧(1)",
+      "name": "[短]在线短剧(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]在线短剧(1).py"
+    },
+    {
+      "key": "[短]星芽短剧(1)",
+      "name": "[短]星芽短剧(1)|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]星芽短剧(1).py"
+    },
+    {
+      "key": "[短]果果短剧",
+      "name": "[短]果果短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]果果短剧.py"
+    },
+    {
+      "key": "[短]樱桃短剧",
+      "name": "[短]樱桃短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]樱桃短剧.py"
+    },
+    {
+      "key": "[短]红果短剧",
+      "name": "[短]红果短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]红果短剧.py"
+    },
+    {
+      "key": "[短]红果短剧1",
+      "name": "[短]红果短剧1|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]红果短剧1.py"
+    },
+    {
+      "key": "AV星球",
+      "name": "AV星球|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/AV星球.py"
+    },
+    {
+      "key": "[短]映刻短剧",
+      "name": "[短]映刻短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]映刻短剧.py"
+    },
+    {
+      "key": "[短]蜜月短剧",
+      "name": "[短]蜜月短剧|[PY]",
+      "type": 3,
+      "api": "http://tvv.tw/github.com/xiabing0102/gao/blob/master/py/[短]蜜月短剧.py"
+    }
+  ],
+
+}
