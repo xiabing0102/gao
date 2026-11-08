@@ -4585,14 +4585,14 @@ def _category_loader(page: int, q: dict) -> dict:
 #       下面的实现与 Hiker 版 JS 逐字节一致（同输入同随机数下 x-ladon / x-argus
 #       完全相等），因此同一份签名在 TVBox 的 Chaquopy 里也能直接用。
 # =============================================================================
-_DM_ENABLED = True          # 总开关：关掉则 playerContent 不再挂弹幕
+_DM_ENABLED = False          # 总开关：关掉则 playerContent 不再挂弹幕
 _DM_HOST = "api5-normal-lq.fqnovel.com"
 _DM_WINDOW_MS = 30000       # 每个取数窗口（毫秒）
 _DM_MAX_WINDOWS = 20        # 最多取 20 个窗口（约 10 分钟，覆盖短剧整集）
 _DM_TTL = 1800              # 弹幕缓存有效期（秒）
 _DM_WAIT = 18               # 弹幕路由最多等取数完成多少秒
 _DM_IN_PLAYER = "list"      # playerContent 里 danmaku 字段形态: list / url / off
-_DM_PUSH_LOCAL = True       # 额外用壳的 127.0.0.1:9978/action 推一次（老壳兜底）
+_DM_PUSH_LOCAL = False       # 额外用壳的 127.0.0.1:9978/action 推一次（老壳兜底）
 _DM_SID_MAP: dict[str, str] = {}
 _DM_CACHE: dict[str, dict[str, Any]] = {}
 _DM_EVENTS: dict[str, threading.Event] = {}
